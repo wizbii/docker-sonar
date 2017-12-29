@@ -5,4 +5,3 @@ ENV PLUGINS='/tmp/plugins.txt'
 COPY plugins.txt /tmp/
 
 RUN wget -i $PLUGINS -P $SONARQUBE_HOME/extensions/plugins/
-
