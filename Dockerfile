@@ -1,7 +1,7 @@
 FROM sonarqube:6.7.1
 
 RUN echo "\
-https://github.com/SonarSource/SonarTS/releases/download/1.3.0.1720/sonar-typescript-plugin-1.3.0.1720.jar\n\
+https://github.com/SonarSource/SonarTS/releases/download/1.5.0.2122/sonar-typescript-plugin-1.5.0.2122.jar\n\
 https://github.com/racodond/sonar-css-plugin/releases/download/4.13/sonar-css-plugin-4.13.jar\n\
 https://github.com/SonarSource/sonar-csharp/releases/download/6.7.1.4347/sonar-csharp-plugin-6.7.1.4347.jar\n\
 https://github.com/SonarSource/SonarJS/releases/download/4.0.0.5862/sonar-javascript-plugin-4.0.0.5862.jar\n\
