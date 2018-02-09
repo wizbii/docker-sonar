@@ -9,6 +9,5 @@ https://github.com/SonarSource/sonar-java/releases/download/5.0-RC1/sonar-java-p
 https://github.com/SonarSource/sonar-php/releases/download/2.12-RC1/sonar-php-plugin-2.12.0.2845.jar\n\
 https://github.com/arturbosch/sonar-kotlin/releases/download/0.3.0/sonar-kotlin-0.3.0.jar\n \
 https://github.com/kogitant/sonar-slack-notifier-plugin/releases/download/2.1.2/cks-slack-notifier-2.1.2.jar\n\
-http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-issue-assign-plugin/1.6/sonar-issue-assign-plugin-1.6.jar\n\
 https://github.com/pmayweg/sonar-groovy/releases/download/1.5/sonar-groovy-plugin-1.5.jar\
 "  |  wget -i -  -P $SONARQUBE_HOME/extensions/plugins/
