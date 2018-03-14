@@ -7,7 +7,7 @@ https://github.com/SonarSource/sonar-csharp/releases/download/7.0.0.4787/sonar-c
 https://github.com/SonarSource/SonarJS/releases/download/4.1.0.6085/sonar-javascript-plugin-4.1.0.6085.jar\n\
 https://github.com/SonarSource/sonar-java/releases/download/5.0-RC1/sonar-java-plugin-5.0.0.12773.jar\n\
 https://github.com/SonarSource/sonar-php/releases/download/2.12-RC1/sonar-php-plugin-2.12.0.2845.jar\n\
-https://github.com/arturbosch/sonar-kotlin/releases/download/0.3.0/sonar-kotlin-0.3.0.jar\n \
+https://github.com/arturbosch/sonar-kotlin/releases/download/0.4.1/sonar-kotlin-0.4.1.jar\n \
 https://github.com/kogitant/sonar-slack-notifier-plugin/releases/download/2.1.2/cks-slack-notifier-2.1.2.jar\n\
 https://github.com/pmayweg/sonar-groovy/releases/download/1.5/sonar-groovy-plugin-1.5.jar\n\
 https://sonarsource.bintray.com/Distribution/sonar-scm-git-plugin/sonar-scm-git-plugin-1.3.0.869.jar\n\
