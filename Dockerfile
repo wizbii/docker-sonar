@@ -11,5 +11,6 @@ https://github.com/arturbosch/sonar-kotlin/releases/download/0.4.1/sonar-kotlin-
 https://github.com/kogitant/sonar-slack-notifier-plugin/releases/download/2.1.2/cks-slack-notifier-2.1.2.jar\n\
 https://github.com/pmayweg/sonar-groovy/releases/download/1.5/sonar-groovy-plugin-1.5.jar\n\
 https://sonarsource.bintray.com/Distribution/sonar-scm-git-plugin/sonar-scm-git-plugin-1.4.0.1037.jar\n\
+https://github.com/ZoeThivet/sonar-l10n-fr/releases/download/1.14.2/sonar-l10n-fr-plugin-1.14.2.jar\n\
 https://dl.bintray.com/mwz/maven/com/github/mwz/sonar-scala_2.12/6.0.0/sonar-scala_2.12-6.0.0-assembly.jar\
 "  |  wget -i -  -P $SONARQUBE_HOME/extensions/plugins/
