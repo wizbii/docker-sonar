@@ -13,5 +13,5 @@ https://github.com/pmayweg/sonar-groovy/releases/download/1.5/sonar-groovy-plugi
 https://sonarsource.bintray.com/Distribution/sonar-scm-git-plugin/sonar-scm-git-plugin-1.4.1.1128.jar\n\
 https://github.com/ZoeThivet/sonar-l10n-fr/releases/download/1.14.2/sonar-l10n-fr-plugin-1.14.2.jar\n\
 https://dl.bintray.com/mwz/maven/com/github/mwz/sonar-scala_2.12/6.0.0/sonar-scala_2.12-6.0.0-assembly.jar\
-https://github.com/Backelite/sonar-swift/releases/download/0.3.6/backelite-sonar-swift-plugin-0.3.6.jar\
+https://github.com/Backelite/sonar-swift/releases/download/0.3.5/backelite-sonar-swift-plugin-0.3.5.jar\
 "  |  wget -i -  -P $SONARQUBE_HOME/extensions/plugins/
