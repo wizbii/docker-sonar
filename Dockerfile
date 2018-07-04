@@ -1,9 +1,9 @@
 FROM sonarqube:6.7.1
 
 RUN echo "\
-https://github.com/SonarSource/SonarTS/releases/download/1.5.0.2122/sonar-typescript-plugin-1.5.0.2122.jar\n\
+https://github.com/SonarSource/SonarTS/releases/download/v1.7.0/sonar-typescript-plugin-1.7.0.2893.jar\n\
 https://github.com/racodond/sonar-css-plugin/releases/download/4.13/sonar-css-plugin-4.13.jar\n\
-https://github.com/SonarSource/sonar-csharp/releases/download/7.1.0.5212/sonar-csharp-plugin-7.1.0.5212.jar\n\
+https://github.com/SonarSource/sonar-csharp/releases/download/7.2.0.5463/sonar-csharp-plugin-7.2.0.5463.jar\n\
 https://github.com/SonarSource/SonarJS/releases/download/4.1.0.6085/sonar-javascript-plugin-4.1.0.6085.jar\n\
 https://github.com/SonarSource/sonar-java/releases/download/5.0-RC1/sonar-java-plugin-5.0.0.12773.jar\n\
 https://github.com/SonarSource/sonar-php/releases/download/2.12-RC1/sonar-php-plugin-2.12.0.2845.jar\n\
