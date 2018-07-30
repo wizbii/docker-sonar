@@ -15,9 +15,3 @@ https://dl.bintray.com/mwz/maven/com/github/mwz/sonar-scala_2.12/6.5.0/sonar-sca
 https://sonarsource.bintray.com/Distribution/sonar-kotlin-plugin/sonar-kotlin-plugin-1.0.0.928.jar\n\
 https://github.com/Backelite/sonar-swift/releases/download/0.3.7/backelite-sonar-swift-plugin-0.3.7.jar\
 "  |  wget -i -  -P $SONARQUBE_HOME/extensions/plugins/
-
-COPY ./data/sonarqube/docker/ /opt/sonarqube/docker/
-COPY ./docker-entrypoint.sh /
-RUN chmod +x /docker-entrypoint.sh
-
-ENTRYPOINT ["/docker-entrypoint.sh"]
