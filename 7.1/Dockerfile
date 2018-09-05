@@ -13,5 +13,6 @@ https://sonarsource.bintray.com/Distribution/sonar-scm-git-plugin/sonar-scm-git-
 https://github.com/ZoeThivet/sonar-l10n-fr/releases/download/1.15/sonar-l10n-fr-plugin-1.15.jar\n\
 https://dl.bintray.com/mwz/maven/com/github/mwz/sonar-scala_2.12/6.5.0/sonar-scala_2.12-6.5.0-assembly.jar\n\
 https://sonarsource.bintray.com/Distribution/sonar-kotlin-plugin/sonar-kotlin-plugin-1.0.0.928.jar\n\
+https://github.com/dmeiners88/sonarqube-prometheus-exporter/releases/download/v1.0.0-SNAPSHOT-2018-07-04/sonar-prometheus-exporter-1.0.0-SNAPSHOT.jar\n\
 https://github.com/Backelite/sonar-swift/releases/download/0.3.7/backelite-sonar-swift-plugin-0.3.7.jar\
 "  |  wget -i -  -P $SONARQUBE_HOME/extensions/plugins/
